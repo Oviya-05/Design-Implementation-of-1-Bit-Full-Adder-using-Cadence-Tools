@@ -32,7 +32,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 - Set up **input stimulus** and analyze the **output waveform**.
 
 ## Circuit Diagram
-![Screenshot 2025-04-12 195351](https://github.com/user-attachments/assets/45b55d9a-41c0-4e82-81c0-0eb7bae53edc)
+![image](https://github.com/user-attachments/assets/8f3b6fcc-3ec7-4662-9381-b324689a6c39)
 
 
 ## Truth Table for 1-Bit Full Adder
